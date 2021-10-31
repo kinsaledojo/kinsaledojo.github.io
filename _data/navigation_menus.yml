@@ -1,0 +1,76 @@
+
+
+primary_menu:
+- title: About Us
+  url: /about-us/
+- title: Resources
+  url: /resources/
+- title: Grading
+  url: /grading/
+- title: Events
+  url: /events/
+- title: Join
+  url: /join-our-dojo/
+- title: News
+  url: /news/
+
+social_menu:
+- title: Email
+  url: mailto:kinsale.ie@coderdojo.com
+
+- title: Facebook
+  url: https://www.facebook.com/KinsaleDojo
+  
+- title: Twitter
+  url: https://twitter.com/KinsaleDojo
+
+- title: GitHub
+  url: https://github.com/KinsaleDojo
+
+footer_menu_one_title: About Us
+footer_menu_one:
+
+- title: About Us
+  url: introduction.html
+
+- title: Resources
+  url: configuration.html
+  
+- title: Grading
+  url: deployment.html
+
+footer_menu_two_title: Resources
+footer_menu_two:
+
+- title: About Us
+  url: introduction.html
+
+- title: Resources
+  url: configuration.html
+
+- title: Grading
+  url: deployment.html
+
+footer_menu_three_title: Grading
+footer_menu_three:
+
+- title: About Us
+  url: introduction.html
+
+- title: Resources
+  url: configuration.html
+
+- title: Grading
+  url: deployment.html
+
+footer_menu_four_title: Competitions & Events
+footer_menu_four:
+
+- title: About Us
+  url: introduction.html
+
+- title: Resources
+  url: configuration.html
+
+- title: Grading
+  url: deployment.html

@@ -1,0 +1,17 @@
+
+
+badges:
+  programming:
+    scratch:
+      - title: Scratch Beginner Badge
+        image: ./assets/images/mentors/mick-cunny
+        objectives:
+          - Move & turn
+          - Using keyboard controls
+          - Using x/y coordinates to position sprites
+          - Changing the look of the stage and a sprite with costumes and show/hide
+          - Forever loops
+          - Detecting when sprites are touching
+        requirments: 
+          - Completing the official CoderDojo Scratch Sushi (Beginner) cards. [http://kata.coderdojo.com/wiki/Beginner_Scratch]
+          - Writing a program that demonstrates their knowledge of the principles above.

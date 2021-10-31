@@ -1,0 +1,43 @@
+
+belts:
+- title: White Belt
+  image: ./assets/images/mentors/mick-cunny
+  requirments: 
+    - Attend 5 Dojo sessions
+    - Understand the CoderDojo code – One Rule, Be Cool!
+    - Get to know the names of 5 ninjas and 2 mentors and
+    - Create and finish a basic project.
+- title: Yellow Belt
+  image: ./assets/images/mentors/mick-cunny
+  requirments: 
+    - Create a project, as agreed with a mentor,
+    - Understand the coding concepts you have used in your project and
+    - Share your project with others.
+- title: Blue Belt
+  image: ./assets/images/mentors/mick-cunny
+  requirments: 
+    - Have previously earned the yellow belt in that track,
+    - Create a project, as agreed with a mentor that is more challenging than your yellow belt project,
+    - Understand the coding concepts you have used in your project,
+    - Share your project with others and
+    - Help mentor (eg help two new ninjas get started).
+- title: Green Belt
+  image: ./assets/images/mentors/mick-cunny
+  requirments: 
+    - Have previously earned the yellow belt in that track
+- title: Orange Belt
+  image: ./assets/images/mentors/mick-cunny
+  requirments: 
+    - Have previously earned the yellow belt in that track
+- title: Red Belt
+  image: ./assets/images/mentors/mick-cunny
+  requirments: 
+    - Have previously earned the yellow belt in that track
+- title: Purple Belt
+  image: ./assets/images/mentors/mick-cunny
+  requirments: 
+    - Have previously earned the yellow belt in that track
+- title: Black Belt
+  image: ./assets/images/mentors/mick-cunny
+  requirments: 
+    - Have previously earned the yellow belt in that track

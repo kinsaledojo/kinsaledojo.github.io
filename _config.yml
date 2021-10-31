@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: CoderDojo Kinsale
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -29,8 +29,23 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+header_cta_title: Login
+header_cta_url: https://teams.microsoft.com
+
+footer_text: The CoderDojo movement believes that an understanding of programming languages is increasingly important in the modern world, that it’s both better and easier to learn these skills early, and that nobody should be denied the opportunity to do so.
+footer_address: CoderDojo Kinsale, McCauley Suite, Kinsale Community School, Ballinacubby, Kinsale, Co. Cork, Ireland, P17 R993
+
+collections:
+  badges:
+    sort_by: order
+  belts:
+    sort_by: order
+  events:
+  volunteers:
+    sort_by: position
+
 # Build settings
-remote_theme: kinsaledojo/coderdojo-jekyll-theme
+theme: coderdojo-jekyll-theme
 plugins:
   - jekyll-feed
 

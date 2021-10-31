@@ -1,0 +1,38 @@
+
+mentors:
+- name: Mick Cunney
+  profile: mick-cunny.jpg
+  bio: Mick is a Chemical Engineer with qualifications in Renewable and Sustainable Technology. He has been with the dojo for four years, the last three as Champion and Child Protection Officer. He is committed to the development of young people’s skills and imaginations through the environment of coding and IT.
+- name: Anthony Nolan
+  profile: anthony-nolan.jpg
+  bio: Anthony is a recent graduate of CIT, completing his degree in electronic engineering. His first maker DIY project was a voice-automated smart bulb which eventually progressed into a full home automation suite. Word has it that he may have had a small part in developing this website but that may be just a rumor.
+- name: Brian O'Reilly
+  profile: brian-oreilly.jpg
+  bio: Brian has spent a lifetime playing with toys while pretending to ‘work’ in the motor/motorcycle industry. Further playing occurred in the computer and photographic industry. Now retired – but still playing and trying to give back something to the much younger generation.
+- name: Caiman Cahill
+  profile: caiman-cahill.jpg
+  bio: Caiman loves all things technological. He likes to apply technology to solve problems, to improve the environment and to make life better. While not a coder himself, Caiman likes to learn about programming from the Ninjas at Kinsale Coderdojo and enjoys seeing them develop and present their creations.
+- name: Grainne Cowhig
+  profile: grainne-cowhig.jpg
+  bio: Grainne is a final year student currently enrolled in the ME pathway in Electrical and Electronic Engineering in University College Cork. She is interested in Python and assists with the Astro Pi project at Kinsale CoderDojo.
+- name: Jamie Phillips
+  profile: jamie-phillips.jpg
+  bio:
+- name: John Dineen
+  profile: john-dineen.jpg
+  bio:
+- name: Marcas Worth
+  profile: marcas-worth.jpg
+  bio: Marcas is a Technology Mentor with 43 years of experience in the IT business world. With a definite hardware bent Marcas has been a part of ICL, DEC, IBM, Siemens, Microsoft, SAP, and Hewlett Packard. Reckons he needs to start making room in his head for retirement so will gladly give away his skills to Ninjas!
+- name: Roisin Coveney
+  profile: roisin-coveney.jpg
+  bio: Roisin is a graduate of mechanical engineering from UL and is currently doing a PhD in crystallization and flow visualisation. She works mainly with Python and MATLAB, and thoroughly enjoys writing a good report!
+- name: Sharron O'Toole
+  profile: sharron-otoole.jpg
+  bio:
+- name: Shauna Murphy
+  profile: shauna-murphy.jpg
+  bio: Shauna loves learning all about IT, Shauna started CoderDojo while in sixth year and became immersed in the world of coding. She is currently studying IT Management in MTU and hopes to teach all the Ninjas the way of coding!
+- name: Stephen Galvin
+  profile: stephen-galvin.jpg
+  bio: Stephen is a Mechanical Engineer who has worked in a variety of industries, from Steam to Industrial Automation over the last 20 years. Like all great engineers he’s incredibly modest and bad at English. Focused on getting technology to do useful things for him (and others too if time to spare!).
