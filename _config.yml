@@ -45,7 +45,7 @@ collections:
     sort_by: position
 
 # Build settings
-theme: coderdojo-jekyll-theme
+remote_theme: kinsaledojo/coderdojo-jekyll-theme
 plugins:
   - jekyll-feed
 
